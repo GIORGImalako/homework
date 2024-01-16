@@ -1,0 +1,12 @@
+document.getElementById("celsius").innerHTML = "30" ;
+document.getElementById("farenheiti").innerHTML = "86" ;
+let celsius = 30;
+let farenheiti = 86;
+document.getElementById("meoreC").innerHTML = "40";
+document.getElementById("meoreF").innerHTML = "124";
+let meoreC = 40;
+let meoreF = 124;
+document.getElementById("mesameC").innerHTML = "15.556";
+document.getElementById("mesameF").innerHTML = "80";
+let mesameC = 15.556;
+let mesameF = 80;
